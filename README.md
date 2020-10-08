@@ -66,3 +66,5 @@ project. We also will also have continuous monitoring of the streets via CCTV an
 
 Let's help each other and be safe.
 
+Making changes for a workshop.
+
